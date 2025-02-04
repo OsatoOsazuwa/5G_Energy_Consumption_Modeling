@@ -134,7 +134,7 @@ The dataset, provided by the **International Telecommunication Union (ITU)**, in
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OsatoOsazuwa/5G_Energy_Consumption_Modeling.git
    
 2. Install required libraries:
    ```bash
